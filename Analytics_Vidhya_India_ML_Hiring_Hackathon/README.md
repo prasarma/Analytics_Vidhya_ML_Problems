@@ -1,5 +1,5 @@
 # AV-India-ML-Hiring-Hackathon-2019
-My first contest on Analytics Vidhya.I got 517 rank out of 3740.
+My first contest on Analytics Vidhya.I got 517 rank (LB Score - 30.50) out of 3740.
 
 <h2 id="problem-statement">Problem Statement</h2>
 <div class="page" title="Page 1">
