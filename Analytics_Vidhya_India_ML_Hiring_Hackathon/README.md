@@ -132,4 +132,3 @@ Test data is further randomly divided into Public (40%) and Private (60%) data.
 </div>
 <p>&nbsp;</p>
 
-# LB Score 0.34
